@@ -12,6 +12,7 @@ Translate the Hoshino Platform into an API interface for integration 简单将�
 
 这是一个与OpenAI API完全兼容的服务器，可以将您现有的星野AI智能体消息处理系统包装成标准的OpenAI API接口。
 
+由于大小和避规原因，仓库中并不带有镜像，请使用(releases)[https://github.com/TwperBody/SimHoshino-API/releases]
 ## 🚀 快速开始
 
 ### 1. 启动服务器
