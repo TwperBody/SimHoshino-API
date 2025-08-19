@@ -3,7 +3,7 @@ Translate the Hoshino Platform into an API interface for integration 简单将�
 
 <p align="center">
 <a href="https://github.com/TwperBody/SimHoshino-API">
-<img src="https://github.com/TwperBody/SimHoshino-API/sim.png" alt="SimHoshino"/>
+<img src="https://github.com/TwperBody/SimHoshino-API/blob/main/sim.png" alt="SimHoshino"/>
 </a>
 
 
